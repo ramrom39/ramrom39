@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="rbanner.png" alt="Banner de Ramón" width="100%">
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ram%C3%B3n+Romero;Desarrollador+de+Software;Analista+de+Ciberseguridad" alt="Typing SVG" />
   </a>
