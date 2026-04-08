@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner de Ramón" width="100%">
+</p>
+
 ## ⭐ About me:
 Desarrollador multiplataforma con experiencia en Java, SQL y Python, especializado en crear soluciones tecnológicas optimizadas y con una excelente experiencia de usuario. Aplico buenas prácticas de desarrollo para garantizar calidad y rendimiento en cada proyecto.Como especialista en software educativo, diseño herramientas interactivas que enriquecen el aprendizaje. Creo aplicaciones adaptativas que fomentan la curiosidad y el pensamiento crítico, convencido de que la tecnología puede revolucionar la educación.
 ## 🌐 Socials:
