@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner de Ramón" width="100%">
+  <img src="rbanner.png" alt="Banner de Ramón" width="100%">
 </p>
 
 ## ⭐ About me:
