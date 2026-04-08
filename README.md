@@ -2,9 +2,6 @@
   <img src="rbanner.png" alt="Banner de Ramón" width="100%">
 </p>
 
-<p align="center">
-  <img src="banner.jpg" alt="Banner de Ramón Romero Montilla" width="100%">
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
