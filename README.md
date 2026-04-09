@@ -41,7 +41,7 @@
 **Ciberseguridad y Herramientas**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,bash,docker,mysql,aws,nginx,postman,figma,git&theme=dark" valign="middle" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,bash,docker,mysql,aws,nginx,postman,figma,git,redhat&theme=dark" valign="middle" />
   </a>
 </p>
 
