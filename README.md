@@ -34,7 +34,7 @@
 **Lenguajes y Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,cs,dotnet,php,laravel,js,html,css,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,cs,dotnet,php,laravel,js,html,css,react,flask&theme=dark" />
   </a>
 </p>
 
